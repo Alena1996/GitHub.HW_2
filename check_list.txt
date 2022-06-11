@@ -1,0 +1,6 @@
+touch check_list.txt
+ID
+Test
+Expected result
+Result
+Comment
